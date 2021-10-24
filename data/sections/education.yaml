@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master of Science in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2019-Present
+  institution:
+    name: Wayne State University
+    url: "https://wayne.edu/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.89
+    outOf: 4
+  takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: true
+      courses:
+      - name: Introduction to Machine Learning and Applications
+        achieved: 4
+        outOf: 4
+      - name: Advanced Machine Learning
+        achieved: 4
+        outOf: 4
+      - name: Introduction to Deep Learning
+        achieved: 3.7
+        outOf: 4
+      - name: Algorithm Design and Analysis
+        achieved: 4
+        outOf: 4
+  publications: #(optional)
+  - title: "Adversarially Robust and Explainable Model Compression with On-Device Personalization for Text Classification"
+    url: "https://arxiv.org/pdf/2101.05624.pdf"
+
+- name: Master of Science in Electrical and Computer Engineering
+  icon: fa-graduation-cap
+  timeframe: 2013-2015
+  institution:
+    name: Oklahoma State University
+    url: "https://go.okstate.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.36
+    outOf: 4
+
+- name: Bachelor of Engineering in Telecommunication Engineering
+  icon: fa-graduation-cap
+  timeframe: 2008-2012
+  institution:
+    name: Siddaganga Institute of Technology
+    url: "http://www.sit.ac.in/html/home.html"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.77
+    outOf: 4

@@ -1,2 +1,0 @@
-# supriyatskumar.github.io
-

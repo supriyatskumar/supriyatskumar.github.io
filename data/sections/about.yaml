@@ -11,15 +11,19 @@ section:
 resume: "files/Supriya_TSKumar_resume.pdf"
 
 # a summary about you
-summary: 'I am a Data scientist/Analyst with 5 years of industry and research experience.
-Currently a Computer Science graduate student at [Wayne State University]( https://wayne.edu/) with specialization in Machine Learning
-and its application in different sectors. I also hold a master’s in Electrical and Computer Engineering from Oklahoma State University.
-With my varied experience as research assistant and  Data Scientist I got to work with large data in healthcare, natural language processing,
-social media etc., to develop Machine Learning/Deep Learning models and systems with focus on adversarial robustness, explainability and
-fairness in AI. <br /><br />
-Previously I worked  as a BI/Data analyst  for 3+ years in multiple sectors - healthcare, non-profit, retail etc.
-My expertise lies in data gathering, management and analytics, with proficiency in guided analytics, developing interactive reports and
-visual best practices to convey story with the data. <br /><br />'
+summary: 'I am a Data Scientist with 8 years of experience in both data science and analytics, integrating expertise from industry practice and academic research. 
+Currently, working as a Data Scientist at General Motors while pursuing a Master’s in Computer Science at Wayne State University, with a focus on 
+Machine Learning and its practical applications in various domains. I also hold a Master’s in Electrical and Computer Engineering from 
+Oklahoma State University. <br /><br />
+My technical background spans the development of end-to-end Machine Learning, Deep Learning, and Large Language Models (LLMs), 
+with hands-on experience in model design, training, evaluation, and optimization. I have worked extensively with large, 
+complex datasets across sectors such as automotive, healthcare, social media, and natural language processing. <br /><br />
+Earlier in my career, I spent over three years as a BI/Data Analyst, where I developed strong expertise in data collection, integration, and 
+management. I gained hands-on experience with SQL, ETL processes, and cloud-based analytics platforms, while leveraging data visualization tools 
+(such as Tableau) to create actionable reports and dashboards. This role honed my ability to distill complex data into insightful, 
+business-driven recommendations. <br /><br />
+My passion lies at the intersection of data science and business strategy, using data-driven methodologies to optimize performance, 
+solve complex problems, and create scalable, ethical AI solutions.<br /><br />'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

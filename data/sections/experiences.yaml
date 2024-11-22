@@ -11,6 +11,27 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: General Motors
+    url: "https://www.gm.com/"
+    location: Warren MI
+    # company overview
+    #overview: The Population Health Outcomes and Information Exchange (PHOENIX) Program
+  positions:
+  - designation: Data Scientist
+    start: Januray 2021
+    #end: Current
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Led a cross-functional vehicle hazard monitoring team to proactively identify and investigate potential safety risks, leveraging unbiased data insights to drive informed decision-making for field actions."
+    - "Optimized data analytics workflows using Python, PySpark and Tableau by streamlining the monitoring and prediction of vehicle safety hazards. Mining billions of data points from telemetry, warranty claims, and other sources, saving 20+ hours per week for the data analytics team."
+    - "Engineered and deployed machine learning models and LLM to classify free-text data into safety hazard categories, enhancing model accuracy by 25% and improving decision-making efficiency across the safety team."
+    - "Developed and deployed a self-service text context extractor using N-grams in a Streamlit application, reducing text analysis time by 50%."
+    - "Designed and implemented an LLM (Llama) based custom entity extraction tool to efficiently extract critical safety information from vehicle-related verbatim data, halving the time spent on reading."
+    - "Presented key analytical insights to cross-functional senior leadership on a quarterly basis, providing actionable recommendations to enhance vehicle safety."
+    
+- company:
     name: PHOENIX program, Wayne State University
     url: "https://phoenix.wayne.edu/about"
     location: Detroit MI
